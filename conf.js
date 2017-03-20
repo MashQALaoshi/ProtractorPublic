@@ -2,5 +2,5 @@
 exports.config = {
   framework: 'jasmine',
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['Banking.spec.js']
+  specs: ['RoughTest/Banking.spec.js']
 }
