@@ -154,6 +154,26 @@
 	- By ignoring the browser Synchronization
 		browser.ignoreSynchronization = true;
 		
+# Create a autosuggention and add dependencies in the project
+	add package.json file into the project
+	CMD>root of the project>npm install
+	CMD>root of the project>npm install -g protractor
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Jenkins Configuration
 	CMD>java -jar jenkins.war
 	Browser > localhost:8080
