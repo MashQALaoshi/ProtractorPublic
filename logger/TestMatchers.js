@@ -6,7 +6,7 @@ describe("Validating the Calculator app",function(){
 
     beforeEach(function(){
 
-        browser.get("http://www.way2automation.com/angularjs-protractor/calc/");
+        browser.get("http://www.remoteituniversity.com/angularjs-protractor/calc/");
         logger.log('info','Navigating to the Website');
         title = browser.getTitle();
     });
