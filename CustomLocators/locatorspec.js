@@ -8,7 +8,7 @@ describe('Angular Home Test', function() {
   {
 
 
-	  browser.get("http://www.way2automation.com/angularjs-protractor/registeration/#/login");
+	  browser.get("http://www.remoteituniversity.com/angularjs-protractor/registeration/#/login");
 
 	  element(by.model("Auth.user.name")).sendKeys("angular");
 	  element(by.model("Auth.user.password")).sendKeys("password");
