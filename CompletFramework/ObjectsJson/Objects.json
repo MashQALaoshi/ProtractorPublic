@@ -1,0 +1,30 @@
+{
+
+  "testsiteurl":"http://gmail.com",
+
+  "locators":{
+
+    "loginpage":{
+
+      "username":"//*[@id='Email']",
+      "next":"next"
+
+
+    }
+
+
+
+  },
+
+  "userdetails":{
+
+    "username1":"trainer@way2automation.com",
+    "password1":"Raman123",
+    "username2":"java@way2automation.com",
+    "password2":"Rahul123"
+
+  }
+
+
+
+}
