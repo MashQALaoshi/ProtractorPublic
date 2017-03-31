@@ -2,7 +2,7 @@
 	http://www.protractortest.org
 	
 #---WebSite---------
-	http://www.way2automation.com/protractor-angularjs-practice-website.html
+	www.remoteituniversity.com
 
 ##------Issue-----------
 #Unable to run Protractor - ECONNREFUSED connect ECONNREFUSED
